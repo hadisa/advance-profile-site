@@ -7,7 +7,7 @@ A modern, responsive portfolio website built with cutting-edge web technologies 
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://vercel.profile.com) | [GitHub Repository](https://github.com/hadisa/advance-profile-site)
+[View Live Demo](https://advance-profile-site.vercel.app/) | [GitHub Repository](https://github.com/hadisa/advance-profile-site?tab=readme-ov-file)
 
 ## ✨ Features
 
